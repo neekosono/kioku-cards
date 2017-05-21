@@ -1,0 +1,4 @@
+project=lang_cards
+architecture=container
+test=minitest
+template=erb
